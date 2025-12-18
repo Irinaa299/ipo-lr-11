@@ -1,0 +1,152 @@
+[
+    {
+        "title": "What is an elliptic curve? (2019)",
+        "comments": 2,
+        "link": "https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/"
+    },
+    {
+        "title": "Egyptian Hieroglyphs: Lesson 1",
+        "comments": 2,
+        "link": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/"
+    },
+    {
+        "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+        "comments": 500,
+        "link": "https://blog.google/products/gemini/gemini-3-flash/"
+    },
+    {
+        "title": "Coursera to combine with Udemy",
+        "comments": 297,
+        "link": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx"
+    },
+    {
+        "title": "Working quickly is more important than it seems (2015)",
+        "comments": 68,
+        "link": "https://jsomers.net/blog/speed-matters"
+    },
+    {
+        "title": "'Ghost jobs' are on the rise – and so are calls to ban them",
+        "comments": 52,
+        "link": "https://www.bbc.com/news/articles/clyzvpp8g3vo"
+    },
+    {
+        "title": "I got hacked: My Hetzner server started mining Monero",
+        "comments": 230,
+        "link": "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"
+    },
+    {
+        "title": "Judge hints Vizio TV buyers may have rights to source code licensed under GPL",
+        "comments": 1,
+        "link": "https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/"
+    },
+    {
+        "title": "Ask HN: Does anyone understand how Hacker News works?",
+        "comments": 69,
+        "link": "item?id=46307306"
+    },
+    {
+        "title": "Gut bacteria from amphibians and reptiles achieve tumor elimination in mice",
+        "comments": 82,
+        "link": "https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html"
+    },
+    {
+        "title": "Developers can now submit apps to ChatGPT",
+        "comments": 75,
+        "link": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/"
+    },
+    {
+        "title": "Ask HN: Those making $500/month on side projects in 2025 – Show and tell",
+        "comments": 138,
+        "link": "item?id=46307973"
+    },
+    {
+        "title": "Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]",
+        "comments": 6,
+        "link": "https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design"
+    },
+    {
+        "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+        "comments": 464,
+        "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers"
+    },
+    {
+        "title": "OBS Studio Gets a New Renderer",
+        "comments": 48,
+        "link": "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
+    },
+    {
+        "title": "More than half of researchers now use AI for peer review, often against guidance",
+        "comments": 20,
+        "link": "https://www.nature.com/articles/d41586-025-04066-5"
+    },
+    {
+        "title": "Tell HN: HN was down",
+        "comments": 299,
+        "link": "item?id=46301921"
+    },
+    {
+        "title": "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+        "comments": 69,
+        "link": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/"
+    },
+    {
+        "title": "TikTok unlawfully tracks shopping habits and use of dating apps?",
+        "comments": 90,
+        "link": "https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps"
+    },
+    {
+        "title": "Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust",
+        "comments": 2,
+        "link": "https://pypi.org/project/wavelet-matrix/"
+    },
+    {
+        "title": "The Number That Turned Sideways",
+        "comments": 25,
+        "link": "https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html"
+    },
+    {
+        "title": "Show HN: I built a fast RSS reader in Zig",
+        "comments": 13,
+        "link": "https://github.com/superstarryeyes/hys"
+    },
+    {
+        "title": "Security vulnerability found in Rust Linux kernel code",
+        "comments": 6,
+        "link": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc"
+    },
+    {
+        "title": "Feather Detective (2016)",
+        "comments": 0,
+        "link": "https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective"
+    },
+    {
+        "title": "Zmij: Faster floating point double-to-string conversion",
+        "comments": 17,
+        "link": "https://vitaut.net/posts/2025/faster-dtoa/"
+    },
+    {
+        "title": "Cloudflare Radar 2025 Year in Review",
+        "comments": 33,
+        "link": "https://radar.cloudflare.com/year-in-review/2025"
+    },
+    {
+        "title": "Oasis: Pooling PCIe Devices over CXL to Boost Utilization",
+        "comments": 1,
+        "link": "https://dl.acm.org/doi/10.1145/3731569.3764812"
+    },
+    {
+        "title": "Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE",
+        "comments": 26,
+        "link": "https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/"
+    },
+    {
+        "title": "How SQLite is tested",
+        "comments": 78,
+        "link": "https://sqlite.org/testing.html"
+    },
+    {
+        "title": "Fast SEQUENCE iteration in Common Lisp",
+        "comments": 8,
+        "link": "https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html"
+    }
+]

@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hacker News Parsed Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #9bc5c3, #616161);
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        table {
+            width: 90%;
+            margin: auto;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        th {
+            background: #333;
+            color: #fff;
+            padding: 12px;
+            font-size: 18px;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        tr:hover {
+            background: #f1f1f1;
+        }
+        .source {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .source a {
+            color: #fff;
+            font-size: 18px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Hacker News — Parsed News</h1>
+
+<table>
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Comments</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td><a href="https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/" target="_blank">What is an elliptic curve? (2019)</a></td>
+        <td>2</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td><a href="https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/" target="_blank">Egyptian Hieroglyphs: Lesson 1</a></td>
+        <td>2</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td><a href="https://blog.google/products/gemini/gemini-3-flash/" target="_blank">Gemini 3 Flash: Frontier intelligence built for speed</a></td>
+        <td>500</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td><a href="https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx" target="_blank">Coursera to combine with Udemy</a></td>
+        <td>297</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td><a href="https://jsomers.net/blog/speed-matters" target="_blank">Working quickly is more important than it seems (2015)</a></td>
+        <td>68</td>
+    </tr>
+
+    <tr>
+        <td>6</td>
+        <td><a href="https://www.bbc.com/news/articles/clyzvpp8g3vo" target="_blank">'Ghost jobs' are on the rise – and so are calls to ban them</a></td>
+        <td>52</td>
+    </tr>
+
+    <tr>
+        <td>7</td>
+        <td><a href="https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/" target="_blank">I got hacked: My Hetzner server started mining Monero</a></td>
+        <td>230</td>
+    </tr>
+
+    <tr>
+        <td>8</td>
+        <td><a href="https://www.theregister.com/2025/12/05/vizio_gpl_source_code_ruling/" target="_blank">Judge hints Vizio TV buyers may have rights to source code licensed under GPL</a></td>
+        <td>1</td>
+    </tr>
+
+    <tr>
+        <td>9</td>
+        <td><a href="item?id=46307306" target="_blank">Ask HN: Does anyone understand how Hacker News works?</a></td>
+        <td>69</td>
+    </tr>
+
+    <tr>
+        <td>10</td>
+        <td><a href="https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html" target="_blank">Gut bacteria from amphibians and reptiles achieve tumor elimination in mice</a></td>
+        <td>82</td>
+    </tr>
+
+    <tr>
+        <td>11</td>
+        <td><a href="https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/" target="_blank">Developers can now submit apps to ChatGPT</a></td>
+        <td>75</td>
+    </tr>
+
+    <tr>
+        <td>12</td>
+        <td><a href="item?id=46307973" target="_blank">Ask HN: Those making $500/month on side projects in 2025 – Show and tell</a></td>
+        <td>138</td>
+    </tr>
+
+    <tr>
+        <td>13</td>
+        <td><a href="https://maintainable.fm/episodes/don-mackinnon-why-simplicity-beats-cleverness-in-software-design" target="_blank">Don MacKinnon: Why Simplicity Beats Cleverness in Software Design [audio]</a></td>
+        <td>6</td>
+    </tr>
+
+    <tr>
+        <td>14</td>
+        <td><a href="https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers" target="_blank">AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'</a></td>
+        <td>464</td>
+    </tr>
+
+    <tr>
+        <td>15</td>
+        <td><a href="https://obsproject.com/blog/obs-studio-gets-a-new-renderer" target="_blank">OBS Studio Gets a New Renderer</a></td>
+        <td>48</td>
+    </tr>
+
+    <tr>
+        <td>16</td>
+        <td><a href="https://www.nature.com/articles/d41586-025-04066-5" target="_blank">More than half of researchers now use AI for peer review, often against guidance</a></td>
+        <td>20</td>
+    </tr>
+
+    <tr>
+        <td>17</td>
+        <td><a href="item?id=46301921" target="_blank">Tell HN: HN was down</a></td>
+        <td>299</td>
+    </tr>
+
+    <tr>
+        <td>18</td>
+        <td><a href="https://www.docker.com/blog/docker-hardened-images-for-every-developer/" target="_blank">A Safer Container Ecosystem with Docker: Free Docker Hardened Images</a></td>
+        <td>69</td>
+    </tr>
+
+    <tr>
+        <td>19</td>
+        <td><a href="https://noyb.eu/en/tiktok-unlawfully-tracks-your-shopping-habits-and-your-use-dating-apps" target="_blank">TikTok unlawfully tracks shopping habits and use of dating apps?</a></td>
+        <td>90</td>
+    </tr>
+
+    <tr>
+        <td>20</td>
+        <td><a href="https://pypi.org/project/wavelet-matrix/" target="_blank">Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust</a></td>
+        <td>2</td>
+    </tr>
+
+    <tr>
+        <td>21</td>
+        <td><a href="https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html" target="_blank">The Number That Turned Sideways</a></td>
+        <td>25</td>
+    </tr>
+
+    <tr>
+        <td>22</td>
+        <td><a href="https://github.com/superstarryeyes/hys" target="_blank">Show HN: I built a fast RSS reader in Zig</a></td>
+        <td>13</td>
+    </tr>
+
+    <tr>
+        <td>23</td>
+        <td><a href="https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=3e0ae02ba831da2b707905f4e602e43f8507b8cc" target="_blank">Security vulnerability found in Rust Linux kernel code</a></td>
+        <td>6</td>
+    </tr>
+
+    <tr>
+        <td>24</td>
+        <td><a href="https://www.audubon.org/magazine/behind-scenes-worlds-top-feather-detective" target="_blank">Feather Detective (2016)</a></td>
+        <td>0</td>
+    </tr>
+
+    <tr>
+        <td>25</td>
+        <td><a href="https://vitaut.net/posts/2025/faster-dtoa/" target="_blank">Zmij: Faster floating point double-to-string conversion</a></td>
+        <td>17</td>
+    </tr>
+
+    <tr>
+        <td>26</td>
+        <td><a href="https://radar.cloudflare.com/year-in-review/2025" target="_blank">Cloudflare Radar 2025 Year in Review</a></td>
+        <td>33</td>
+    </tr>
+
+    <tr>
+        <td>27</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731569.3764812" target="_blank">Oasis: Pooling PCIe Devices over CXL to Boost Utilization</a></td>
+        <td>1</td>
+    </tr>
+
+    <tr>
+        <td>28</td>
+        <td><a href="https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/" target="_blank">Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE</a></td>
+        <td>26</td>
+    </tr>
+
+    <tr>
+        <td>29</td>
+        <td><a href="https://sqlite.org/testing.html" target="_blank">How SQLite is tested</a></td>
+        <td>78</td>
+    </tr>
+
+    <tr>
+        <td>30</td>
+        <td><a href="https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html" target="_blank">Fast SEQUENCE iteration in Common Lisp</a></td>
+        <td>8</td>
+    </tr>
+
+</table>
+
+<div class="source">
+    <p><a href="https://news.ycombinator.com/" target="_blank">Оригинальный источник данных — Hacker News</a></p>
+</div>
+
+</body>
+</html>
